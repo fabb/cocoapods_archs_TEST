@@ -1,0 +1,13 @@
+PODS:
+  - GPUImage (0.1.5)
+  - UIImageView+Material (0.1.0):
+    - GPUImage (~> 0.1.4)
+
+DEPENDENCIES:
+  - UIImageView+Material (~> 0.1.0)
+
+SPEC CHECKSUMS:
+  GPUImage: 5114a47f5fc33eb312f3731550a3cea379416d04
+  UIImageView+Material: 559075ee119e765922af2c5511e42c2ce392de58
+
+COCOAPODS: 0.33.1
